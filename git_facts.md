@@ -1,11 +1,11 @@
 ## Git Facts
 
-by _________
+by Ibuki Maeda
 
-git is a kind of _________ control software, similar to the "track changes" feature of Microsoft Word or Google Documents.
+git is a kind of version control software, similar to the "track changes" feature of Microsoft Word or Google Documents.
 
-git tracks changes to files in a special folder called a ____, which is short for ________.
+git tracks changes to files in a special folder called a Repo, which is short for Repository.
 
-git keeps a log of all the changes you have made to your files. Each change is called a _______. You always provide a short comment describing what happened in the change.
+git keeps a log of all the changes you have made to your files. Each change is called a Diff. You always provide a short comment describing what happened in the change.
 
-git is _______! (choose your favorite description ^^ )
+git is really useful!
